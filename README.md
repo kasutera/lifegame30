@@ -1,11 +1,11 @@
 # lifegame30
-30-Line Lifegame program with OpenCV
+Game of Life programs within 30 lines with OpenCV
 
 ## lifegame30.cpp
 ### Requirement
 - OpenCV 3.0
 ### Usage
-$ make && ./lifegame30
+`$ make && ./lifegame30`
 
 ## lifegame30.m
 ### Requirement
